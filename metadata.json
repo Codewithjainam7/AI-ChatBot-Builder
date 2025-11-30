@@ -1,0 +1,5 @@
+{
+  "name": "BotForge - AI Chatbot Builder",
+  "description": "A production-ready SaaS dashboard to build, train, and deploy intelligent customer support chatbots using Gemini 2.0 Pro.",
+  "requestFramePermissions": []
+}
